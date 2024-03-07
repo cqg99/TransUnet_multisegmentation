@@ -1,0 +1,6 @@
+dataset/CamVid                                    
+model/vit_checkpoint/imagenet21k/R50+ViT-B_16.npz   
+16                                               
+0.001                                              
+300                                              
+trans_cam                                           
